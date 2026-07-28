@@ -253,6 +253,14 @@ Verify:
 
 ---
 
+<p align="center">
+<img src="images/alb.png" width="900" alt="AWS ALB Auto Scaling Architecture">
+</p>
+
+<p align="center">
+<img src="images/alb1.png" width="900" alt="AWS ALB Auto Scaling Architecture">
+</p>
+
 ## 📂 Project Structure
 
 ```text
